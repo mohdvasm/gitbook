@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            Vasim's Blogs
+longtitle:        Sharing knowledge of AI/ML
+author:           Mohammed Vasim
+email:            mohd.vasim@outlook.com
 description: >
-  Build Jekyll site with the GitBook style.
+  Sharing knowledge of Artificial Intelligence and Data Science 
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://mohdvasm.github.io/gitbook'
-baseurl:          '/gitbook'
+url:              'https://mohdvasm.github.io/blogs'
+baseurl:          '/blogs'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
